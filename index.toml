@@ -517,6 +517,10 @@ file = "mods/soundphysics-forge-1.19.2-1.0.18.jar"
 hash = "761b025059e5ae8983c812202d5616607b06d3497fb4f454553277d109842b43"
 
 [[files]]
+file = "mods/spark-1.10.29-forge.jar"
+hash = "15ddbbb0ace9d10f5e095fdf36c669ebac9de596728f427091e972eb6ae6c0c5"
+
+[[files]]
 file = "mods/spiderstpo-1.19.2-2.0.4.jar"
 hash = "6a9c4fe15894750ecb5a9670fc4b545145f3bbb6accd7cddff51165c17d7fac2"
 
@@ -535,6 +539,10 @@ hash = "f7afda8cb1698a4d944b8d4fd74fe58ffe16171f279eb9b10483a5f4cf85cb3b"
 [[files]]
 file = "mods/supplementaries-1.19.2-2.2.34b.jar"
 hash = "4e54ed5d5790643bcc6080231d0b990db221cec91d72acc25f1fed9145fc7604"
+
+[[files]]
+file = "mods/theoneprobe-1.19-6.2.2.jar"
+hash = "df20e0bb050a4a887c3bf4409e54d11e1f5d1706d401463d5cbcc2797716b4b4"
 
 [[files]]
 file = "mods/voicechat-forge-1.19.2-2.3.26.jar"

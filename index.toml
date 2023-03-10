@@ -57,10 +57,6 @@ file = "mods/CNB-1.19-1.5.0.jar"
 hash = "b4db4767991bd1f307988b6235b67d9e5e3c6e6719fe10eefb4f93c723a2a489"
 
 [[files]]
-file = "mods/Chunk+Pregenerator-1.19-4.2.1.jar"
-hash = "5e9ec56c11e75960daa2541d854fa003415c33be49ace1e0e43d8197f8398068"
-
-[[files]]
 file = "mods/ColorfulAzaleas-forge-1.19.2-2.2.0.jar"
 hash = "6c8967c913a8d0e74ded53231c360106e1527512dd7210a0240ac046a929fb51"
 

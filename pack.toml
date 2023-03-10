@@ -1,0 +1,13 @@
+name = "Refined_Pack"
+author = "Funny_Bone_Man"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1bfc79e86073f9d9d0591008372b8ba73eceb598dcde2fe24503acd8ac20c046"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"

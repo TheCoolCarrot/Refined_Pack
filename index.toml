@@ -169,6 +169,10 @@ file = "mods/Quark-3.3-377.jar"
 hash = "f30c4f4b57ce9eaff6daa99e125200cd2aefd68a50ca064859d5e6c5c11658ff"
 
 [[files]]
+file = "mods/QuarkOddities-1.18.jar"
+hash = "3353852e58f5fcd0991d08dc26beb7305ed04e529a757f7ec3b6fa55b8dafdba"
+
+[[files]]
 file = "mods/RoughlyEnoughItems-9.1.591.jar"
 hash = "a1e2b4c73f23e9073277aa748bec96e52320f90c1d42cd10e70c1819251ef977"
 

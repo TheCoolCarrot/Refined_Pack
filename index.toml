@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/playerrevive-client.json"
-hash = "fc0fe81a0558a419ce4a1c20eb08436f6964c2eadb7594788684e2633367d4e5"
+hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
 
 [[files]]
 file = "config/playerrevive.json"
-hash = "7499138f9e9fb421ee60fa8d075194caa2a8ab36bc3f89ff66e9cab8c7eb0f02"
+hash = "8a8a225c94138a3ac160ddb6cecc98908f8138599ea2e0bc60f8e455243254f0"
 
 [[files]]
 file = "config/quark-common.toml"

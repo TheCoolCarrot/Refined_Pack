@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Refresh.bat"
-hash = "883530d8da0241b448b562c192ee152cac2210b095a4b72bb83268068ff05e4b"
-
-[[files]]
 file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6.zip"
 hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
 

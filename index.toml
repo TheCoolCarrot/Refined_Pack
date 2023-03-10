@@ -237,8 +237,8 @@ file = "mods/additionaladditions-5.1.0.jar"
 hash = "9266075ea416e189fa812a46fb2e09a87db8c18fbef775813820a0084e76c591"
 
 [[files]]
-file = "mods/aileron-1.19-forge-1.0.0.jar"
-hash = "10fdb2a7ac02fca6845d52b1b6c8e0d124380632180a74050c8f91c70b27e0a7"
+file = "mods/aileron-1.19-forge-1.0.2.jar"
+hash = "e3c8eeda52cf123cb6007f9f4af734a3b913f7084620e228d20626223465a169"
 
 [[files]]
 file = "mods/alexsdelight-1.4.1.jar"

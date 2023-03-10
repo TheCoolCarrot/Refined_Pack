@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/playerrevive-client.json"
-hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
+hash = "fc0fe81a0558a419ce4a1c20eb08436f6964c2eadb7594788684e2633367d4e5"
 
 [[files]]
 file = "config/playerrevive.json"
-hash = "8a8a225c94138a3ac160ddb6cecc98908f8138599ea2e0bc60f8e455243254f0"
+hash = "7499138f9e9fb421ee60fa8d075194caa2a8ab36bc3f89ff66e9cab8c7eb0f02"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -507,6 +507,10 @@ hash = "a6c756b89373b7abcf7d21d63ac8865a11c127c82b24d35a003ea5474805569b"
 [[files]]
 file = "mods/snuffles-1.0.3.jar"
 hash = "2c567fbfccd6a3d9f19da17f533a3357338e4f8914339e55ae2137839a5e18de"
+
+[[files]]
+file = "mods/solsweetpotato-1.19.2-2.0.0.jar"
+hash = "95a9f548a1c2655794b335a4ec7161b92916895088d72529809cc8e74df6c8d1"
 
 [[files]]
 file = "mods/sootychimneys-1.19.2-1.0.0l.jar"

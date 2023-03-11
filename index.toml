@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/playerrevive-client.json"
-hash = "66afd32595b00de5d2837780a5866d600e296d9200a4e4fb1b6a2ef94693c909"
-
-[[files]]
-file = "config/playerrevive.json"
-hash = "8a8a225c94138a3ac160ddb6cecc98908f8138599ea2e0bc60f8e455243254f0"
-
-[[files]]
-file = "config/quark-common.toml"
-hash = "abc79671a8690bab562b165dbab95160efe02e44a832fe0b2d548b1bfe88ce4c"
-
-[[files]]
 file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6.zip"
 hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
 

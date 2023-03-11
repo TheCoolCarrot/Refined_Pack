@@ -190,7 +190,7 @@ hash = "d8fa4064a693eaa5167060410de76d7becb277bba5044dc2594358f32660825e"
 
 [[files]]
 file = "mods/Terralith_v2.3.5.jar"
-hash = "2484487970fe264484e73aed7766ea1eb5a9157e4612baa17659b29c6970d620"
+hash = "e7bf0859538d6b89b99a9d761b0dafb2ea39fa1cea440fcee3735948a44614a3"
 
 [[files]]
 file = "mods/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
@@ -251,6 +251,10 @@ hash = "3a7c90665e5324ea5b5493862afa1655965bb1876d21f387a6f7283b43bb696e"
 [[files]]
 file = "mods/architectury-6.5.69-forge.jar"
 hash = "935f789561705963b7572f4fe82faadfa438da3aec9226f72f01987ad4170739"
+
+[[files]]
+file = "mods/backpacked-2.1.10-1.19.jar"
+hash = "618b26d9f8e3d128445f5d49bbee06f01e3fddf39468e763b8117da1eaec3b0c"
 
 [[files]]
 file = "mods/bedspreads-forge-6.0.0+1.19.2.jar"
@@ -357,6 +361,10 @@ file = "mods/effective_fg-1.3.4.jar"
 hash = "f8ee05c457456a52a91751f9957994207baaf6eb6a5d839f949e5c9f362e0bf8"
 
 [[files]]
+file = "mods/effortlessbuilding-1.19.2-3.0.jar"
+hash = "924389bcf9c1d9597cfcfadf195cdb4eec3fb2614059dabf66164d9b82503ce3"
+
+[[files]]
 file = "mods/entityculling-forge-1.6.1-mc1.19.2.jar"
 hash = "14686b41719756b50dd8d90e4d1754f752e5c370c99a280df00ecc64baf63534"
 
@@ -439,6 +447,14 @@ hash = "18ed10418cc81086dbfd43da8eff437ad38e425582376b0abd9ea600a22f136d"
 [[files]]
 file = "mods/moonlight-1.19.2-2.1.24-forge.jar"
 hash = "33a73a0e9f6609d4888592c08fd2b8ddd3c1faf9d6317eb87ab63028f6c2fe5e"
+
+[[files]]
+file = "mods/moyai-1.19.2-2.0.1.jar"
+hash = "ca379d2b11531cb0492c883f2a37f3881688345dae6d4d1318d7a00cab81fa46"
+
+[[files]]
+file = "mods/mysticaloaktree-1.19.2-1.7.jar"
+hash = "69a9cbbbb9f59abb017df8d64bd7ecfeb654e63972a6bb24ba67e50ddb5810ee"
 
 [[files]]
 file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"

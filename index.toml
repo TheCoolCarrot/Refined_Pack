@@ -253,6 +253,10 @@ file = "mods/architectury-6.5.69-forge.jar"
 hash = "935f789561705963b7572f4fe82faadfa438da3aec9226f72f01987ad4170739"
 
 [[files]]
+file = "mods/backpacked-2.1.10-1.19.jar"
+hash = "618b26d9f8e3d128445f5d49bbee06f01e3fddf39468e763b8117da1eaec3b0c"
+
+[[files]]
 file = "mods/bedspreads-forge-6.0.0+1.19.2.jar"
 hash = "8a26938e0a0ed9af1d1fcbfafc9c86b5c34a0c4bbc08439a0cbd7a0cb5c1da9f"
 
@@ -439,6 +443,14 @@ hash = "18ed10418cc81086dbfd43da8eff437ad38e425582376b0abd9ea600a22f136d"
 [[files]]
 file = "mods/moonlight-1.19.2-2.1.24-forge.jar"
 hash = "33a73a0e9f6609d4888592c08fd2b8ddd3c1faf9d6317eb87ab63028f6c2fe5e"
+
+[[files]]
+file = "mods/moyai-1.19.2-2.0.1.jar"
+hash = "ca379d2b11531cb0492c883f2a37f3881688345dae6d4d1318d7a00cab81fa46"
+
+[[files]]
+file = "mods/mysticaloaktree-1.19.2-1.7.jar"
+hash = "69a9cbbbb9f59abb017df8d64bd7ecfeb654e63972a6bb24ba67e50ddb5810ee"
 
 [[files]]
 file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"

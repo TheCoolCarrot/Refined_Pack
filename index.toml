@@ -273,6 +273,10 @@ file = "mods/better_climbing-1.1.0-FORGE.jar"
 hash = "92466222442e2bb2414b14d3f53690f53e74d5862aab0a98453ba6513698a135"
 
 [[files]]
+file = "mods/betterbiomeblend-1.19.0-1.3.6-forge.jar"
+hash = "47e8c95485c0e9a4399b012d5f4bcf47262fe013d7c4792b84a17c535b74a014"
+
+[[files]]
 file = "mods/blueprint-1.19.2-6.1.0.jar"
 hash = "daa01d17b82f458dc87807569f412bccf0eb9c9700b3d271e185749b32daa8b6"
 

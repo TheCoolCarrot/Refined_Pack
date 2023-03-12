@@ -141,50 +141,6 @@ file = "mods/NekosEnchantedBooks-1.19-1.8.0.jar"
 hash = "88eb6e783ecc5955266c342c98a82429c531344988aadf242a9e02711db07baf"
 
 [[files]]
-file = "mods/New folder/ancient_mines.json"
-hash = "650bf56e9f42880b0a5ec6260c6d9bf3b49378b20e54abcfa8844dc86032fb5f"
-
-[[files]]
-file = "mods/New folder/ancient_portal.json"
-hash = "979994764799e9f937a79f2d10f5cb783d4db08646cf10a60d38b1072f40db62"
-
-[[files]]
-file = "mods/New folder/idas_common.json"
-hash = "7aeb1d1edd5f6e4f55ceb88b41c6358e0e96a03dbbc1aeb99febc8ddf53655a2"
-
-[[files]]
-file = "mods/New folder/idas_desert_rare.json"
-hash = "28385b9e678933824906fbcfc4a91f2e220ceb5dc10168f0bb46d28735d670eb"
-
-[[files]]
-file = "mods/New folder/idas_nether.json"
-hash = "23c10cbe01e948dd71b3f2579fef1adcb7e58189ff1305b840858c969280917f"
-
-[[files]]
-file = "mods/New folder/idas_ocean.json"
-hash = "b8c5414988ce3b8a8ba632c976238e3a9cd68d51fb07355f9a98b5c382264ec3"
-
-[[files]]
-file = "mods/New folder/idas_rare.json"
-hash = "0a7b43a0460456818f841ec941a9b56adf0a010c4162efbdab0b3684c04db865"
-
-[[files]]
-file = "mods/New folder/idas_small.json"
-hash = "8015b15067c9dc965567d25a56ada7e366d0b50e51b04884a92b434f5fff5a8e"
-
-[[files]]
-file = "mods/New folder/idas_small_nether.json"
-hash = "a0eef0392062c90c24d31fdbf8477b44cf8294aa3a64ccdcfb626c99a14eab29"
-
-[[files]]
-file = "mods/New folder/idas_uncommon.json"
-hash = "e0ee6c4dc2405f8fafc1d7fefe12fcc855b62aa3e7792e7c8c7093623641874a"
-
-[[files]]
-file = "mods/New folder/idas_underground.json"
-hash = "47f2a18dd31082d0b7905ed7521dc480947b8a4aede8fb512c1e7b7653927cc0"
-
-[[files]]
 file = "mods/PacketSizeDoublerForge-1.0.5-1.19.x.jar"
 hash = "a73e7b027e7430544859d8c1e5863437a9779b5eea2b549d7cb30b579e75bfdb"
 

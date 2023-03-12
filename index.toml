@@ -349,6 +349,10 @@ file = "mods/creeperoverhaul-2.0.5-forge.jar"
 hash = "de53046007be340f374c9e7ee8e3f0a3de150c39667a54a992932eb861d3c76b"
 
 [[files]]
+file = "mods/cullleaves-forge-3.0.0.jar"
+hash = "86a84f316040e6e2435506413a776128932738dc1b97886b93cc3e7c59151308"
+
+[[files]]
 file = "mods/curios-forge-1.19.2-5.1.3.0.jar"
 hash = "c74982401a3e16d17fe1ecd3dafb9795d7af0f28c65bf6f946505ba07ce49c61"
 
@@ -575,3 +579,23 @@ hash = "df20e0bb050a4a887c3bf4409e54d11e1f5d1706d401463d5cbcc2797716b4b4"
 [[files]]
 file = "mods/voicechat-forge-1.19.2-2.3.26.jar"
 hash = "2b1f4d32e76af5a6194a5e4458277e3806b2b344b6256da36b0cc410cad367b5"
+
+[[files]]
+file = "resourcepacks/Better-Leaves-7.1-1.19+.zip"
+hash = "b85d22739dda61ad605e0dd5f9f0757a03bd87a5059ff17db541a96f680b2de0"
+
+[[files]]
+file = "resourcepacks/EclecticTrove-noconfig-1.19-1.2.0.zip"
+hash = "ebbbb5006ec55769913c20d5600afbd67aaf7a893a8923453d3b4a2c1b441693"
+
+[[files]]
+file = "resourcepacks/Unity-1.18.X-PBR-0.5.0.zip"
+hash = "fc11cab6434785c3b391b0773b947f187c89c4654fd4509f71f1e7070cc7fa49"
+
+[[files]]
+file = "resourcepacks/Unity-1.19.X-Base-2.4.1.zip"
+hash = "382b5cd3205c32bac01d6efccf9f175989954caebfcc6c71f0ad371f76a33e53"
+
+[[files]]
+file = "resourcepacks/Unity-1.19.X-Dark-0.9.1.zip"
+hash = "99675ee42bbd594102f3dac5e402d99f6cd94c0a69c414644d82e678fe985720"

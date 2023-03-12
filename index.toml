@@ -445,10 +445,6 @@ file = "mods/integrated_stronghold_forge-1.0.1+1.19.2.jar"
 hash = "8d8193b5cf58609f00b7034fef643d76ca345b9d2ac1e7d476fbd90669f8dba7"
 
 [[files]]
-file = "mods/iris-mc1.19.2-1.5.2.jar"
-hash = "806f9187d22b3dfe520b521df6fb13206eea8d4e25f4f23bbc3e5156649f6419"
-
-[[files]]
 file = "mods/journeymap-1.19.2-5.9.3-forge.jar"
 hash = "fd9428b67ac7079b277f082cd5980d04109bbbbadb88b921b36c52fe956b9443"
 
@@ -483,6 +479,10 @@ hash = "69a9cbbbb9f59abb017df8d64bd7ecfeb654e63972a6bb24ba67e50ddb5810ee"
 [[files]]
 file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
+
+[[files]]
+file = "mods/oculus-mc1.19.2-1.2.8a.jar"
+hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
 
 [[files]]
 file = "mods/personality-1.19-3.0.1.jar"

@@ -121,20 +121,12 @@ file = "mods/Fastload-Reforged-2.6.9+1.19.2.jar"
 hash = "adab9561cc5d44fed822bfde0720964be2c14065e7bb8e490254b963ddfb3909"
 
 [[files]]
-file = "mods/Highlighter-1.19.1-1.1.4.jar"
-hash = "fc4e64c2bb828540fdc580c714faec8b12a31b4f2d045d95d0da1c426166afa5"
-
-[[files]]
 file = "mods/Iceberg-1.19.2-forge-1.1.4.jar"
 hash = "b9c1ebdf11e7538761aa30f229fb6ce3890057a2af13f11be93c299da9125d1c"
 
 [[files]]
 file = "mods/Incendium_v5.1.4_Hotfix.jar"
 hash = "1960e3f9f6a58dde872566a854d09bdb38701ba13e51a0783d1dcb4a12935518"
-
-[[files]]
-file = "mods/ItemBorders-1.19.1-1.2.0.jar"
-hash = "cfd6d994210f8ed3e3e3cc1976a5947fe37bbecf81766b843f03bf8d6d705566"
 
 [[files]]
 file = "mods/LegendaryTooltips-1.19.2-1.3.1.jar"
@@ -479,10 +471,6 @@ hash = "69a9cbbbb9f59abb017df8d64bd7ecfeb654e63972a6bb24ba67e50ddb5810ee"
 [[files]]
 file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
-
-[[files]]
-file = "mods/oculus-mc1.19.2-1.2.8a.jar"
-hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
 
 [[files]]
 file = "mods/personality-1.19-3.0.1.jar"

@@ -201,6 +201,10 @@ file = "mods/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
 hash = "6e8ed3e1a9bfb1cf9467748914bc40dac16d44e2d233d89d16dfab1e2775f3a9"
 
 [[files]]
+file = "mods/XaerosWorldMap_1.29.2_Forge_1.19.1.jar"
+hash = "7cdcf33c68335b418e83e0eba8f4e1983b79d4295d562b61073b6f80ca577a5b"
+
+[[files]]
 file = "mods/YungsApi-1.19.2-Forge-3.8.2.jar"
 hash = "c5d49e7b1248511cb42c5f0b64aae8e4810faaf7bf4535e4e841d63d6e85f175"
 
@@ -431,10 +435,6 @@ hash = "d5d19779602680950f067621350550992d43aa62c94d8d40bd1343777ce2a394"
 [[files]]
 file = "mods/integrated_stronghold_forge-1.0.1+1.19.2.jar"
 hash = "8d8193b5cf58609f00b7034fef643d76ca345b9d2ac1e7d476fbd90669f8dba7"
-
-[[files]]
-file = "mods/journeymap-1.19.2-5.9.3-forge.jar"
-hash = "fd9428b67ac7079b277f082cd5980d04109bbbbadb88b921b36c52fe956b9443"
 
 [[files]]
 file = "mods/kotlinforforge-3.9.1-all.jar"

@@ -1,8 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
+<<<<<<< HEAD
 file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6_.zip"
 hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
+=======
+file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6.zip"
+hash = "f4d93aac987fa548f6560902ba29e37bdb3cdaf099b4e647cc60b6e0b28d8133"
+>>>>>>> parent of 9bd289c (Launch fix)
 
 [[files]]
 file = "datapacks/Repurposed_Structures-Better_Monuments_v4_.zip"

@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "d97d3da0263b1cd419913da16eeb6f10311f751e9156424c59a65e764eab4636"
+=======
+hash = "e9abd20aaa552ff8642d438d997123de8764c02bb5fea9a02deb423af63df4e9"
+>>>>>>> parent of 9bd289c (Launch fix)
 
 [versions]
 forge = "43.2.0"

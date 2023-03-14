@@ -1,36 +1,80 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6.zip"
+file = "datapacks/BackupDatapaosodpao/Repurposed_Structures-Better_Desert_Temples_v6.zip"
 hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Monuments_v4.zip"
+file = "datapacks/BackupDatapaosodpao/Repurposed_Structures-Better_Monuments_v4.zip"
 hash = "85de82afd3c1e996f5978f2778a037a72842e134939ef6f7e46a9f84c8cd88d8"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Domestication_Innovation_v2.zip"
+file = "datapacks/BackupDatapaosodpao/Repurposed_Structures-Domestication_Innovation_v2.zip"
 hash = "6c675473da3cf7d3ad814bc7ed3e19b2e5e55e3bb8bc4918101cf26fd94e2b0f"
 
 [[files]]
-file = "datapacks/Terralith.zip"
+file = "datapacks/BackupDatapaosodpao/Terralith.zip"
 hash = "b705ffa5730f76bdbc580e0651f4cca855711858563905eab73904458e104005"
 
 [[files]]
-file = "datapacks/idasconfig-1.6.0-1.19.2.zip"
+file = "datapacks/BackupDatapaosodpao/idasconfig-1.6.0-1.19.2.zip"
 hash = "46a3cbfff74ce6963e1b9650beea3a7213759e71a00ce1a4615639f0ac51399a"
 
 [[files]]
-file = "datapacks/integrated_stronghold_config-1.0.0-1.19.zip"
+file = "datapacks/BackupDatapaosodpao/integrated_stronghold_config-1.0.0-1.19.zip"
 hash = "d12310c2394c5878052e667d7e31d40e0d29a2449138d1ebd871a4a32cae289e"
 
 [[files]]
-file = "datapacks/intstrong_alexsmobs-1.0.0-1.19.2.zip"
+file = "datapacks/BackupDatapaosodpao/intstrong_alexsmobs-1.0.0-1.19.2.zip"
 hash = "75dfc3edd26981fb8819549eda6c20ba716b8d9e23230aa1710d49d628c3d2d8"
 
 [[files]]
-file = "datapacks/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2.zip"
+file = "datapacks/BackupDatapaosodpao/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2.zip"
 hash = "0435326c6ef8f077e17e8c4bbe7c69b3e6f120d9b3e0b54c45f2db08919c80e3"
+
+[[files]]
+file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6_.zip"
+hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
+
+[[files]]
+file = "datapacks/Repurposed_Structures-Better_Monuments_v4_.zip"
+hash = "85de82afd3c1e996f5978f2778a037a72842e134939ef6f7e46a9f84c8cd88d8"
+
+[[files]]
+file = "datapacks/Repurposed_Structures-Domestication_Innovation_v_2.zip"
+hash = "6c675473da3cf7d3ad814bc7ed3e19b2e5e55e3bb8bc4918101cf26fd94e2b0f"
+
+[[files]]
+file = "datapacks/continents_tweak.zip"
+hash = "26f621eb7e62f79401760be0856208d395daa9fe69787e346892ec136d037eca"
+
+[[files]]
+file = "datapacks/idas_tweak.zip"
+hash = "fd8e60e2d1b4e6aa0f3858ff7a79908bae02f46a12083ee793c6799924f54d05"
+
+[[files]]
+file = "datapacks/idasconfig-1.6.0-1.19.2_.zip"
+hash = "46a3cbfff74ce6963e1b9650beea3a7213759e71a00ce1a4615639f0ac51399a"
+
+[[files]]
+file = "datapacks/integrated_stronghold_config-1.0.0-1.19_.zip"
+hash = "d12310c2394c5878052e667d7e31d40e0d29a2449138d1ebd871a4a32cae289e"
+
+[[files]]
+file = "datapacks/intstrong_alexsmobs-1.0.0-1.19.2_.zip"
+hash = "75dfc3edd26981fb8819549eda6c20ba716b8d9e23230aa1710d49d628c3d2d8"
+
+[[files]]
+file = "datapacks/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2_.zip"
+hash = "0435326c6ef8f077e17e8c4bbe7c69b3e6f120d9b3e0b54c45f2db08919c80e3"
+
+[[files]]
+file = "datapacks/pyramids_tweak.zip"
+hash = "26283f567dff79724dc49e11f2e76c6c22825eea3038f16bdfa2e466ea07c385"
+
+[[files]]
+file = "datapacks/terralith_Tweak.zip"
+hash = "b705ffa5730f76bdbc580e0651f4cca855711858563905eab73904458e104005"
 
 [[files]]
 file = "mods/AdvancementPlaques-1.19.2-1.4.7.jar"

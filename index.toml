@@ -37,6 +37,10 @@ file = "datapacks/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2_.zip"
 hash = "0435326c6ef8f077e17e8c4bbe7c69b3e6f120d9b3e0b54c45f2db08919c80e3"
 
 [[files]]
+file = "datapacks/no-terralith-structures.zip"
+hash = "4ede76b28b4879212697421773335efce748261579ae53aa14c55fb35dd216fb"
+
+[[files]]
 file = "datapacks/pyramids_tweak.zip"
 hash = "26283f567dff79724dc49e11f2e76c6c22825eea3038f16bdfa2e466ea07c385"
 

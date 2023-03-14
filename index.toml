@@ -1,36 +1,48 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6.zip"
+file = "datapacks/Repurposed_Structures-Better_Desert_Temples_v6_.zip"
 hash = "2bedbd549e5b836d71c2edba54ed675908f2a80a2a0b8709de645fb125a3238a"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Better_Monuments_v4.zip"
+file = "datapacks/Repurposed_Structures-Better_Monuments_v4_.zip"
 hash = "85de82afd3c1e996f5978f2778a037a72842e134939ef6f7e46a9f84c8cd88d8"
 
 [[files]]
-file = "datapacks/Repurposed_Structures-Domestication_Innovation_v2.zip"
+file = "datapacks/Repurposed_Structures-Domestication_Innovation_v_2.zip"
 hash = "6c675473da3cf7d3ad814bc7ed3e19b2e5e55e3bb8bc4918101cf26fd94e2b0f"
 
 [[files]]
-file = "datapacks/Terralith.zip"
-hash = "b705ffa5730f76bdbc580e0651f4cca855711858563905eab73904458e104005"
+file = "datapacks/continents_tweak.zip"
+hash = "26f621eb7e62f79401760be0856208d395daa9fe69787e346892ec136d037eca"
 
 [[files]]
-file = "datapacks/idasconfig-1.6.0-1.19.2.zip"
-hash = "d9151a5846fdd2121741f6d9be0ea6f1822196df51ea54f370cb3749d19cd75e"
+file = "datapacks/idas_tweak.zip"
+hash = "fd8e60e2d1b4e6aa0f3858ff7a79908bae02f46a12083ee793c6799924f54d05"
 
 [[files]]
-file = "datapacks/integrated_stronghold_config-1.0.0-1.19.zip"
+file = "datapacks/idasconfig-1.6.0-1.19.2_.zip"
+hash = "46a3cbfff74ce6963e1b9650beea3a7213759e71a00ce1a4615639f0ac51399a"
+
+[[files]]
+file = "datapacks/integrated_stronghold_config-1.0.0-1.19_.zip"
 hash = "d12310c2394c5878052e667d7e31d40e0d29a2449138d1ebd871a4a32cae289e"
 
 [[files]]
-file = "datapacks/intstrong_alexsmobs-1.0.0-1.19.2.zip"
+file = "datapacks/intstrong_alexsmobs-1.0.0-1.19.2_.zip"
 hash = "75dfc3edd26981fb8819549eda6c20ba716b8d9e23230aa1710d49d628c3d2d8"
 
 [[files]]
-file = "datapacks/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2.zip"
+file = "datapacks/intstrong_dungeonsmobs-1.0.0-1.18.2-1.19.2_.zip"
 hash = "0435326c6ef8f077e17e8c4bbe7c69b3e6f120d9b3e0b54c45f2db08919c80e3"
+
+[[files]]
+file = "datapacks/pyramids_tweak.zip"
+hash = "26283f567dff79724dc49e11f2e76c6c22825eea3038f16bdfa2e466ea07c385"
+
+[[files]]
+file = "datapacks/terralith_Tweak.zip"
+hash = "b705ffa5730f76bdbc580e0651f4cca855711858563905eab73904458e104005"
 
 [[files]]
 file = "mods/AdvancementPlaques-1.19.2-1.4.7.jar"
@@ -74,7 +86,7 @@ hash = "c6f0d74ee11263c073a821e6cdc9c5395337938dd69048b2441c8d075c37e63a"
 
 [[files]]
 file = "mods/Continents_1.19_v1.1.2.jar"
-hash = "87f5adca8557cf1ddb65cccd7b86f1ee04f5a19f6b8374e5995929aeebe37412"
+hash = "123bebf049eb329dd1431b7bb7a6e0d11c2c44716dc58c404766a39689348340"
 
 [[files]]
 file = "mods/CorgiLib-forge-1.19.2-1.0.0.24.jar"
@@ -193,8 +205,8 @@ file = "mods/Steam_Rails-1.19.2-1.1.1.jar"
 hash = "d8fa4064a693eaa5167060410de76d7becb277bba5044dc2594358f32660825e"
 
 [[files]]
-file = "mods/Terralith_v2.3.5.jar"
-hash = "19e407ad757dc98617e297c0dfcf04562a125d3d832ca237a37de6f33943dfac"
+file = "mods/Terralith_v2.3.6.jar"
+hash = "d7a348ed9cd8cb33388b24242a3df043f8f284cae191c2a58c78b0d3dc669b79"
 
 [[files]]
 file = "mods/TextruesRubidiumOptions-1.0.4-mc1.19.2.jar"
@@ -205,12 +217,12 @@ file = "mods/XaerosWorldMap_1.29.2_Forge_1.19.1.jar"
 hash = "7cdcf33c68335b418e83e0eba8f4e1983b79d4295d562b61073b6f80ca577a5b"
 
 [[files]]
-file = "mods/YungsApi-1.19.2-Forge-3.8.2.jar"
-hash = "c5d49e7b1248511cb42c5f0b64aae8e4810faaf7bf4535e4e841d63d6e85f175"
+file = "mods/YungsApi-1.19.2-Forge-3.8.8.jar"
+hash = "eddec67dfded3a01d95d6f657813a028ad01f696fe0b9c8aa5bdd0e2e1c337a2"
 
 [[files]]
-file = "mods/YungsBetterDesertTemples-1.19.2-Forge-2.2.1.jar"
-hash = "0abacde3c7fab073417acc5466daee6834f5c26c2887d5119a80bd5cf7a62e63"
+file = "mods/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar"
+hash = "df33053f2e10e1c29e29ab7d5ce22a68972adffd0d8ef6a524e2bde5e81c647d"
 
 [[files]]
 file = "mods/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
@@ -222,11 +234,11 @@ hash = "5ce063016ed8510cbb7f36ee3fab3b291b347a52fcad1aff807e038002614ccb"
 
 [[files]]
 file = "mods/YungsBetterNetherFortresses-1.19.2-Forge-1.0.3.jar"
-hash = "cd3fd994239bdb85a6cec1e11c761c9d9e29f8465eae27c0fb753963ae3532a0"
+hash = "a7ee74d7c5de288f794d11639ce3b82649f59b7a3fd534fd185eb8952b21cd3a"
 
 [[files]]
 file = "mods/YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar"
-hash = "cec10c2183e013a99c3e27e3c2b6c4765cd082da9be8383b4b4ea1c0df4246ea"
+hash = "777ab4f95d1a303ed44a4786c4294ba94675f2aefef0161ccf430aba3ded98d4"
 
 [[files]]
 file = "mods/additionaladditions-5.1.0.jar"
@@ -422,7 +434,7 @@ hash = "32cf822ec6e2c1bcf23f0e3b8524df22eb0c3e43f69506c5b8885d516550262f"
 
 [[files]]
 file = "mods/idas_forge-1.6.0+1.19.2.jar"
-hash = "5e70d1149218f2463c61e56c067d6e6414a80197532c1a9f218228daa3e5ea9c"
+hash = "0f19613295b750db3be6ccb6d443871c2a308ceb31861afc15e8103c3e1030b2"
 
 [[files]]
 file = "mods/infinitybuttons-1.19.2-3.1.0.jar"
@@ -435,6 +447,10 @@ hash = "d5d19779602680950f067621350550992d43aa62c94d8d40bd1343777ce2a394"
 [[files]]
 file = "mods/integrated_stronghold_forge-1.0.1+1.19.2.jar"
 hash = "8d8193b5cf58609f00b7034fef643d76ca345b9d2ac1e7d476fbd90669f8dba7"
+
+[[files]]
+file = "mods/journeymap-1.19.2-5.9.4-forge.jar"
+hash = "9eb9eec4f0c867b86347fae1adfa38240bdaca10c1677e80cbd7ede3bf696c65"
 
 [[files]]
 file = "mods/kotlinforforge-3.9.1-all.jar"

@@ -74,7 +74,7 @@ hash = "c6f0d74ee11263c073a821e6cdc9c5395337938dd69048b2441c8d075c37e63a"
 
 [[files]]
 file = "mods/Continents_1.19_v1.1.2.jar"
-hash = "87f5adca8557cf1ddb65cccd7b86f1ee04f5a19f6b8374e5995929aeebe37412"
+hash = "f589027ac41c7675e066328b81fa4e785ae498a12716fff0e4d2f853b37ab399"
 
 [[files]]
 file = "mods/CorgiLib-forge-1.19.2-1.0.0.24.jar"
@@ -210,7 +210,7 @@ hash = "c5d49e7b1248511cb42c5f0b64aae8e4810faaf7bf4535e4e841d63d6e85f175"
 
 [[files]]
 file = "mods/YungsBetterDesertTemples-1.19.2-Forge-2.2.1.jar"
-hash = "0abacde3c7fab073417acc5466daee6834f5c26c2887d5119a80bd5cf7a62e63"
+hash = "9974123574738086e74666377f9701c55899ca322b353235f0128ead40c491fb"
 
 [[files]]
 file = "mods/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar"
@@ -222,11 +222,11 @@ hash = "5ce063016ed8510cbb7f36ee3fab3b291b347a52fcad1aff807e038002614ccb"
 
 [[files]]
 file = "mods/YungsBetterNetherFortresses-1.19.2-Forge-1.0.3.jar"
-hash = "cd3fd994239bdb85a6cec1e11c761c9d9e29f8465eae27c0fb753963ae3532a0"
+hash = "a7ee74d7c5de288f794d11639ce3b82649f59b7a3fd534fd185eb8952b21cd3a"
 
 [[files]]
 file = "mods/YungsBetterOceanMonuments-1.19.2-Forge-2.1.0.jar"
-hash = "cec10c2183e013a99c3e27e3c2b6c4765cd082da9be8383b4b4ea1c0df4246ea"
+hash = "901468bf668f3b4efca144f114984743681e0ca88e807e8a1e381683a8e621e0"
 
 [[files]]
 file = "mods/additionaladditions-5.1.0.jar"

@@ -125,6 +125,10 @@ file = "mods/FarmersRespite-1.19-2.0.jar"
 hash = "1006d45a1b2fe80968c21f013592d871479298ea75dd2a629115596f57d208df"
 
 [[files]]
+file = "mods/FastLeafDecay-30.jar"
+hash = "fab9ef7b1997b8e859e494dcbff78d0ba108e67ff8c0aec2aac5dbd4f26bc546"
+
+[[files]]
 file = "mods/FastSuite-1.19.2-4.0.0.jar"
 hash = "080fd20341ac88088e25ba8e2bb13308cad671760693d7e57ff94b8fe12cd9f9"
 
@@ -453,10 +457,6 @@ file = "mods/jei-1.19.2-forge-11.6.0.1013.jar"
 hash = "eac1d7c3ceef52680dc59c8a5efadece0c036c5dc062e1514f1f7a277cfb18f0"
 
 [[files]]
-file = "mods/journeymap-1.19.2-5.9.4-forge.jar"
-hash = "9eb9eec4f0c867b86347fae1adfa38240bdaca10c1677e80cbd7ede3bf696c65"
-
-[[files]]
 file = "mods/kotlinforforge-3.9.1-all.jar"
 hash = "1e15e440cf959c6d42ed63a0d6714f6bd2dd36f1fe75508b914d8b8f5c837d9d"
 
@@ -531,6 +531,10 @@ hash = "c2281d0a6f685bb2d19c8792a922d7ef6f82daa4779366ae5c443394cd5914db"
 [[files]]
 file = "mods/signpost-1.19.2-2.01.0.jar"
 hash = "f5eba0986a8873688081c87e18936fb88f3f4330042a7bf2800252cf1bd3f3ee"
+
+[[files]]
+file = "mods/simpleshops-1.2.2.jar"
+hash = "23e853965ee41cd41e9b08b0c7eeff91a282150b7fb70fc60ef5d13ecc7bda84"
 
 [[files]]
 file = "mods/smoothboot(reloaded)-mc1.19.2-0.0.2.jar"

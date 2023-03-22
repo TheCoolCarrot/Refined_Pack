@@ -293,6 +293,10 @@ file = "mods/blueprint-1.19.2-6.1.0.jar"
 hash = "daa01d17b82f458dc87807569f412bccf0eb9c9700b3d271e185749b32daa8b6"
 
 [[files]]
+file = "mods/bobby-4.0.1.jar"
+hash = "cd52b9688177ff052969e255d83ab222770d9c22b476b287ff8a82d3545e8530"
+
+[[files]]
 file = "mods/canary-mc1.19.2-0.1.7.jar"
 hash = "79f38caf2fcf1cf6d5d3ebe333031f53373ebd67254f7a4d77281a6dbf808e38"
 

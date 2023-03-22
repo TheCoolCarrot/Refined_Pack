@@ -97,6 +97,10 @@ file = "mods/CorgiLib-forge-1.19.2-1.0.0.24.jar"
 hash = "dc3ad5ae063f4be192ce69ff73f865885de02232d26bee030f9e26261d9da21f"
 
 [[files]]
+file = "mods/CosmeticArmorReworked-1.19.2-v1a.jar"
+hash = "b4f072dd8a7fc3fce83c11b6a67e4ba2946af4a2946fc1b2041d708c96c08b5e"
+
+[[files]]
 file = "mods/CreativeCore_FORGE_v2.9.3_mc1.19.2.jar"
 hash = "ebf4288b5ef6e50dca320cf5d04cc75122bba4e4df4cbc635aa9a0f13b667072"
 
@@ -313,6 +317,10 @@ file = "mods/collective-1.19.2-6.30.jar"
 hash = "62cbaec702fbc731ffed54f7d23a1365a7d3dee513056cd72ce9685c756ad7b9"
 
 [[files]]
+file = "mods/comforts-forge-6.0.4+1.19.2.jar"
+hash = "a853bcf7cfd1b945c67b2090c2ef06202b55ff338fc15710b5aa1cd7f783fe6b"
+
+[[files]]
 file = "mods/configured-2.0.1-1.19.2.jar"
 hash = "668de64b6317860f7fa15fa0cf1d428054877c792a7fc89dae9ffbc8353093c4"
 
@@ -371,6 +379,10 @@ hash = "de9982b8e37664a98429b9b284b74bcb96a425e6201ecaf591330492c8c92bc7"
 [[files]]
 file = "mods/duckling-2.0.8-forge.jar"
 hash = "cc82295eec0588bd0d2e44209243e2d2f22d11501974328b186cdc5e2619e398"
+
+[[files]]
+file = "mods/dummmmmmy-1.19.2-1.7.1.jar"
+hash = "29d62c8094986cdfce72ca87c00aa59c8d3f90b919b4df0ec43914af6708058f"
 
 [[files]]
 file = "mods/dungeons_libraries-1.19.2-3.0.9-beta.jar"
@@ -495,6 +507,10 @@ hash = "da9d463f0c5a3a97b065cf30b5acb06fa0be27464f435b9ede38aa40e12fe51a"
 [[files]]
 file = "mods/pluto-mc1.19.2-0.0.7.jar"
 hash = "6f81f4fc6a1faae6d91e756fa34f06ba4010d4042cbe4ce76418bc40dd8a3d95"
+
+[[files]]
+file = "mods/polymorph-forge-0.46.1+1.19.2.jar"
+hash = "7d1de58788b362a4eb751ca435aff0e8c21c8ec04126f76ae66c063279644650"
 
 [[files]]
 file = "mods/radon-0.8.2.jar"

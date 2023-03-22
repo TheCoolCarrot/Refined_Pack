@@ -145,10 +145,6 @@ file = "mods/Incendium_v5.1.4_Hotfix.jar"
 hash = "1960e3f9f6a58dde872566a854d09bdb38701ba13e51a0783d1dcb4a12935518"
 
 [[files]]
-file = "mods/LegendaryTooltips-1.19.2-1.3.1.jar"
-hash = "b23ab3d475aa0756cbb7315ac3e3d28649e2a8b8890e30cc7c666bcec13f4101"
-
-[[files]]
 file = "mods/LegendaryTooltips-1.19.2-forge-1.4.0.jar"
 hash = "866f0773f15a085896652d7db9f92101ca83ba156ae99687f03d2ee0868b3d5d"
 
@@ -293,10 +289,6 @@ file = "mods/blueprint-1.19.2-6.1.0.jar"
 hash = "daa01d17b82f458dc87807569f412bccf0eb9c9700b3d271e185749b32daa8b6"
 
 [[files]]
-file = "mods/bobby-4.0.1.jar"
-hash = "cd52b9688177ff052969e255d83ab222770d9c22b476b287ff8a82d3545e8530"
-
-[[files]]
 file = "mods/canary-mc1.19.2-0.1.7.jar"
 hash = "79f38caf2fcf1cf6d5d3ebe333031f53373ebd67254f7a4d77281a6dbf808e38"
 
@@ -415,6 +407,10 @@ hash = "181db5883dad672a60481920ddc5ffa82d8abebb1342ac2b3306f6060ac35626"
 [[files]]
 file = "mods/fantasyfurniture-1.19.2-6.7.0.jar"
 hash = "2527430e886f31ac98603dbd9217485ab3d5666ace0a9809537fabdd230797e1"
+
+[[files]]
+file = "mods/farsight-1.19.2-2.1.jar"
+hash = "e6d83041a922f154811421256b50503efa226f8cfa7954fdcf7978d48005d238"
 
 [[files]]
 file = "mods/ferritecore-5.0.3-forge.jar"

@@ -141,6 +141,10 @@ file = "mods/Fastload-Reforged-2.6.9+1.19.2.jar"
 hash = "adab9561cc5d44fed822bfde0720964be2c14065e7bb8e490254b963ddfb3909"
 
 [[files]]
+file = "mods/HorseExpert-v4.0.0-1.19.2-Forge.jar"
+hash = "62d646a246961e0d98c7f5aa6550a1500f823e41805fa0c6e01c86af62c08ede"
+
+[[files]]
 file = "mods/Iceberg-1.19.2-forge-1.1.4.jar"
 hash = "b9c1ebdf11e7538761aa30f229fb6ce3890057a2af13f11be93c299da9125d1c"
 
@@ -171,6 +175,10 @@ hash = "a73e7b027e7430544859d8c1e5863437a9779b5eea2b549d7cb30b579e75bfdb"
 [[files]]
 file = "mods/Paraglider-1.19.2-1.7.0.3.jar"
 hash = "bec185f5dd990b4c9007482699af33300b9f30977f85b728d5369c10ec807643"
+
+[[files]]
+file = "mods/Patchouli-1.19.3-78.jar"
+hash = "87a7596644142378590c69aa1348aa026ab64701a0933963e9b5b3dfda5cb987"
 
 [[files]]
 file = "mods/Ping-1.19-1.9.1.jar"
@@ -305,6 +313,10 @@ file = "mods/catalogue-1.7.0-1.19.2.jar"
 hash = "697d287fc98abc3c0b75a4990fe2631a4fb57ec64db75b3edf5717392ccd6c16"
 
 [[files]]
+file = "mods/chalk-1.19-1.4.0.jar"
+hash = "a918d589f580d92db9c1320bff62290775594514389e086751d795eddb1c9742"
+
+[[files]]
 file = "mods/citadel-2.1.1-1.19.jar"
 hash = "11712fa14b79368ef40f1bfccf3df4ac9646d426eeee7ee0fbbafa288a81b9d0"
 
@@ -347,6 +359,10 @@ hash = "ae08b8feb2b6080007aaba6b0f62141f0a15f22f9b0b3f916b7c031776d88839"
 [[files]]
 file = "mods/create_enchantment_industry-1.19.2-for-create-0.5.0.g-1.1.9.jar"
 hash = "62a637b21edc8f66e512bc07eee24736732c197a29eabf03b09a93b414385565"
+
+[[files]]
+file = "mods/createbb-2.1.jar"
+hash = "b727703d9080378c38206e2542d448a66d2cd006269f50ee19344fe5fcc413c4"
 
 [[files]]
 file = "mods/createbigcannons-1.19.2-beta-0.5.b.jar"
@@ -471,6 +487,14 @@ hash = "eac1d7c3ceef52680dc59c8a5efadece0c036c5dc062e1514f1f7a277cfb18f0"
 [[files]]
 file = "mods/kotlinforforge-3.9.1-all.jar"
 hash = "1e15e440cf959c6d42ed63a0d6714f6bd2dd36f1fe75508b914d8b8f5c837d9d"
+
+[[files]]
+file = "mods/littlecontraptions-forge-1.19.2.0.jar"
+hash = "d22be72bc34ac6cf881c59549935f7d342fa07067c9048d546a0a52822574eb8"
+
+[[files]]
+file = "mods/littlelogistics-mc1.19.2-v1.3.2.jar"
+hash = "67e002526254276fb883334886866324bbfe2101562ad154e48fc40ec6fd7db2"
 
 [[files]]
 file = "mods/mcw-doors-1.0.7-mc1.19.2.jar"
@@ -599,6 +623,10 @@ hash = "4e54ed5d5790643bcc6080231d0b990db221cec91d72acc25f1fed9145fc7604"
 [[files]]
 file = "mods/theoneprobe-1.19-6.2.2.jar"
 hash = "df20e0bb050a4a887c3bf4409e54d11e1f5d1706d401463d5cbcc2797716b4b4"
+
+[[files]]
+file = "mods/trashcans-1.0.17a-forge-mc1.19.3.jar"
+hash = "0254f0d2014416d1bbd1664db4c3f07cce7427dbbef01b4b24a263b29a6dd764"
 
 [[files]]
 file = "mods/voicechat-forge-1.19.2-2.3.26.jar"

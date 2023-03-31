@@ -177,8 +177,8 @@ file = "mods/Paraglider-1.19.2-1.7.0.3.jar"
 hash = "bec185f5dd990b4c9007482699af33300b9f30977f85b728d5369c10ec807643"
 
 [[files]]
-file = "mods/Patchouli-1.19.3-78.jar"
-hash = "87a7596644142378590c69aa1348aa026ab64701a0933963e9b5b3dfda5cb987"
+file = "mods/Patchouli-1.19.2-76.jar"
+hash = "dc45c4adcbc57a45a60dc1ec4e3e67938bb1ee9757216b046571c8cb4f4e2820"
 
 [[files]]
 file = "mods/Ping-1.19-1.9.1.jar"

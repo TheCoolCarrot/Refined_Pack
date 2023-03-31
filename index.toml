@@ -429,8 +429,8 @@ file = "mods/extendedflywheels-1.2.2-1.19.2-0.5.f.jar"
 hash = "11dea07f874739105467c4586516b169461811765e550f57b52e2fe8db268b88"
 
 [[files]]
-file = "mods/extendedgears-1.19.2-0.5.0g-1.1.1.jar"
-hash = "181db5883dad672a60481920ddc5ffa82d8abebb1342ac2b3306f6060ac35626"
+file = "mods/extendedgears-2.0.2-1.19.2-0.5.0.iforge-1.19.2.jar"
+hash = "9396032957fc046adef29734c0b5eb3da234bc6a7babc29755473a62e75d7898"
 
 [[files]]
 file = "mods/fantasyfurniture-1.19.2-6.7.0.jar"

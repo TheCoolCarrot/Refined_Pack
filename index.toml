@@ -301,6 +301,10 @@ file = "mods/blueprint-1.19.2-6.1.0.jar"
 hash = "daa01d17b82f458dc87807569f412bccf0eb9c9700b3d271e185749b32daa8b6"
 
 [[files]]
+file = "mods/bwncr-forge-1.19.2-3.14.1.jar"
+hash = "ae5e09f7855800f415b85006643dc577c8c7df64bcc32075549357faa4fc9804"
+
+[[files]]
 file = "mods/canary-mc1.19.2-0.1.7.jar"
 hash = "79f38caf2fcf1cf6d5d3ebe333031f53373ebd67254f7a4d77281a6dbf808e38"
 
@@ -643,6 +647,10 @@ hash = "2b1f4d32e76af5a6194a5e4458277e3806b2b344b6256da36b0cc410cad367b5"
 [[files]]
 file = "mods/xercamusic-1.19.2-1.1.0.jar"
 hash = "966b59f6e2a8b306fe7834afc93e88826d3865be9167ecf8b52924720ba3d344"
+
+[[files]]
+file = "mods/xercapaint-1.19.2-1.0.1.jar"
+hash = "c924841435b37f1e6ef86458915716360a6c708e65196fd343a9f69fdb8e52ec"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-7.1-1.19+.zip"

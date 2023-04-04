@@ -509,8 +509,8 @@ file = "mods/midnightlib-0.6.1.jar"
 hash = "0b8341ce6e85c7a28ac235cb5be7133f3b9d365c3e4996ee77a5d8ab213fe8ed"
 
 [[files]]
-file = "mods/mimimod-1.19.2-3.0.0.jar"
-hash = "918b1c1fb00154c645e74a713ee8060a82fe45cd5731f222f5d46cba5f30d411"
+file = "mods/mimimod-1.19.3-3.0.3.jar"
+hash = "5378c75a610cc324c6fcf363ce3bfe66a25d0eb411341522d36768faffc25103"
 
 [[files]]
 file = "mods/modelfix-1.8.jar"

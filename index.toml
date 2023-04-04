@@ -305,6 +305,10 @@ file = "mods/blueprint-1.19.2-6.1.0.jar"
 hash = "daa01d17b82f458dc87807569f412bccf0eb9c9700b3d271e185749b32daa8b6"
 
 [[files]]
+file = "mods/bwncr-forge-1.19.2-3.14.1.jar"
+hash = "ae5e09f7855800f415b85006643dc577c8c7df64bcc32075549357faa4fc9804"
+
+[[files]]
 file = "mods/canary-mc1.19.2-0.1.7.jar"
 hash = "79f38caf2fcf1cf6d5d3ebe333031f53373ebd67254f7a4d77281a6dbf808e38"
 
@@ -323,6 +327,10 @@ hash = "a918d589f580d92db9c1320bff62290775594514389e086751d795eddb1c9742"
 [[files]]
 file = "mods/citadel-2.1.1-1.19.jar"
 hash = "11712fa14b79368ef40f1bfccf3df4ac9646d426eeee7ee0fbbafa288a81b9d0"
+
+[[files]]
+file = "mods/clay-0.4.2-forge-1.19.2.jar"
+hash = "35d33073915e665a8433a9c770b4fb89446d8c2f7cf508c3db9148aa9b8e5f3f"
 
 [[files]]
 file = "mods/cloth-config-8.2.88-forge.jar"
@@ -529,6 +537,10 @@ file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
 
 [[files]]
+file = "mods/oculus-mc1.19.2-1.2.8a.jar"
+hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
+
+[[files]]
 file = "mods/personality-1.19-3.0.1.jar"
 hash = "da9d463f0c5a3a97b065cf30b5acb06fa0be27464f435b9ede38aa40e12fe51a"
 
@@ -637,6 +649,14 @@ file = "mods/voicechat-forge-1.19.2-2.3.26.jar"
 hash = "2b1f4d32e76af5a6194a5e4458277e3806b2b344b6256da36b0cc410cad367b5"
 
 [[files]]
+file = "mods/xercamusic-1.19.2-1.1.0.jar"
+hash = "966b59f6e2a8b306fe7834afc93e88826d3865be9167ecf8b52924720ba3d344"
+
+[[files]]
+file = "mods/xercapaint-1.19.2-1.0.1.jar"
+hash = "c924841435b37f1e6ef86458915716360a6c708e65196fd343a9f69fdb8e52ec"
+
+[[files]]
 file = "resourcepacks/Better-Leaves-7.1-1.19+.zip"
 hash = "b85d22739dda61ad605e0dd5f9f0757a03bd87a5059ff17db541a96f680b2de0"
 
@@ -655,3 +675,7 @@ hash = "382b5cd3205c32bac01d6efccf9f175989954caebfcc6c71f0ad371f76a33e53"
 [[files]]
 file = "resourcepacks/Unity-1.19.X-Dark-0.9.1.zip"
 hash = "99675ee42bbd594102f3dac5e402d99f6cd94c0a69c414644d82e678fe985720"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r2.0.3.zip"
+hash = "ecc4f37980ee247e6688f89f20d9706f569223a95eba82396de37ea1c1ca100b"

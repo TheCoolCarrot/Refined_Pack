@@ -509,10 +509,6 @@ file = "mods/midnightlib-0.6.1.jar"
 hash = "0b8341ce6e85c7a28ac235cb5be7133f3b9d365c3e4996ee77a5d8ab213fe8ed"
 
 [[files]]
-file = "mods/mimimod-1.19.2-3.0.3.jar"
-hash = "0ead935c8fe2469512bf16b0887542192209e1b52580932ec260ce8a6dc2b5d6"
-
-[[files]]
 file = "mods/modelfix-1.8.jar"
 hash = "18ed10418cc81086dbfd43da8eff437ad38e425582376b0abd9ea600a22f136d"
 
@@ -643,6 +639,10 @@ hash = "bbfa6f65279f99c30dff9e7f6026da150a32b6790bcafccead23a658298ad88d"
 [[files]]
 file = "mods/voicechat-forge-1.19.2-2.3.26.jar"
 hash = "2b1f4d32e76af5a6194a5e4458277e3806b2b344b6256da36b0cc410cad367b5"
+
+[[files]]
+file = "mods/xercamusic-1.19.2-1.1.0.jar"
+hash = "966b59f6e2a8b306fe7834afc93e88826d3865be9167ecf8b52924720ba3d344"
 
 [[files]]
 file = "resourcepacks/Better-Leaves-7.1-1.19+.zip"

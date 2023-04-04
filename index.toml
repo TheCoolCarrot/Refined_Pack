@@ -321,6 +321,10 @@ file = "mods/citadel-2.1.1-1.19.jar"
 hash = "11712fa14b79368ef40f1bfccf3df4ac9646d426eeee7ee0fbbafa288a81b9d0"
 
 [[files]]
+file = "mods/clay-0.4.2-forge-1.19.2.jar"
+hash = "35d33073915e665a8433a9c770b4fb89446d8c2f7cf508c3db9148aa9b8e5f3f"
+
+[[files]]
 file = "mods/cloth-config-8.2.88-forge.jar"
 hash = "a827276f4b4d582c2b12605f072286308e78df02db0c3f87d9cef2c117ac7be3"
 

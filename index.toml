@@ -493,10 +493,6 @@ file = "mods/integrated_stronghold_forge-1.0.1+1.19.2.jar"
 hash = "8d8193b5cf58609f00b7034fef643d76ca345b9d2ac1e7d476fbd90669f8dba7"
 
 [[files]]
-file = "mods/iris-flywheel-compat-1.19.2-0.1.9-BETA.jar"
-hash = "5e93a5d55097ca58335acecd0444dc38d82359660faa5661328b10800432321a"
-
-[[files]]
 file = "mods/jei-1.19.2-forge-11.6.0.1013.jar"
 hash = "eac1d7c3ceef52680dc59c8a5efadece0c036c5dc062e1514f1f7a277cfb18f0"
 
@@ -539,6 +535,10 @@ hash = "69a9cbbbb9f59abb017df8d64bd7ecfeb654e63972a6bb24ba67e50ddb5810ee"
 [[files]]
 file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
+
+[[files]]
+file = "mods/oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar"
+hash = "c10cf56a24fe7ec29176c853e5776738f3d6412e0a58d394ad83fbaa7849db53"
 
 [[files]]
 file = "mods/oculus-mc1.19.2-1.2.8a.jar"

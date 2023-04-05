@@ -77,6 +77,10 @@ file = "mods/BorderlessWindow-1.19.1-1.5.2.jar"
 hash = "dba29b5981e34016515fc7702edf67e04168992860f34836904405ff5ddb08a5"
 
 [[files]]
+file = "mods/BorderlessWindow-1.19.1-1.5.2.toml"
+hash = "34ba230e6fbfacc5027a3e41bcdecfc0af91887bae0781f5ef2b21ce5a53cddc"
+
+[[files]]
 file = "mods/CNB-1.19-1.5.0.jar"
 hash = "b4db4767991bd1f307988b6235b67d9e5e3c6e6719fe10eefb4f93c723a2a489"
 
@@ -541,8 +545,8 @@ file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
 
 [[files]]
-file = "mods/oculus-1.5.2.jar"
-hash = "5157f6aa4044ff9cd583f666e9447f4fdbc3825df7468db45ffb2bc3c8388d1d"
+file = "mods/oculus-mc1.19.2-1.2.8a.jar"
+hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
 
 [[files]]
 file = "mods/personality-1.19-3.0.1.jar"

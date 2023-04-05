@@ -537,10 +537,6 @@ file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
 
 [[files]]
-file = "mods/oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar"
-hash = "bbdaccf0cefe9dab9d0d27b98373729dee3e5e150ba20517db224f0621d4c6e7"
-
-[[files]]
 file = "mods/oculus-mc1.19.2-1.2.8a.jar"
 hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
 

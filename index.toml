@@ -541,8 +541,8 @@ file = "mods/notenoughanimations-forge-1.6.2-mc1.19.2.jar"
 hash = "273066921547c541b628e8580c63b3a3818922158cde69b3e7eb48ac4411f961"
 
 [[files]]
-file = "mods/oculus-mc1.19.2-1.2.8a.jar"
-hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
+file = "mods/oculus-1.5.2.jar"
+hash = "5157f6aa4044ff9cd583f666e9447f4fdbc3825df7468db45ffb2bc3c8388d1d"
 
 [[files]]
 file = "mods/personality-1.19-3.0.1.jar"

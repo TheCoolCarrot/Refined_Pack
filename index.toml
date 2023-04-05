@@ -73,10 +73,6 @@ file = "mods/BetterTridents-v4.0.1-1.19.2-Forge.jar"
 hash = "c06ca1b579afa804769ea8566cb78930ebbc76b3e4880ece18bede14d2d4e95c"
 
 [[files]]
-file = "mods/BorderlessWindow-1.19.1-1.5.2.jar"
-hash = "dba29b5981e34016515fc7702edf67e04168992860f34836904405ff5ddb08a5"
-
-[[files]]
 file = "mods/BorderlessWindow-1.19.1-1.5.2.toml"
 hash = "34ba230e6fbfacc5027a3e41bcdecfc0af91887bae0781f5ef2b21ce5a53cddc"
 

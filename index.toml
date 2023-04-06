@@ -493,6 +493,10 @@ file = "mods/integrated_stronghold_forge-1.0.1+1.19.2.jar"
 hash = "8d8193b5cf58609f00b7034fef643d76ca345b9d2ac1e7d476fbd90669f8dba7"
 
 [[files]]
+file = "mods/jecalculation-forge-1.19.2-4.0.2.jar"
+hash = "d1417fee3f22cc348f252213e654e16a8f358ae4aca711bcff054886e59d442a"
+
+[[files]]
 file = "mods/jei-1.19.2-forge-11.6.0.1013.jar"
 hash = "eac1d7c3ceef52680dc59c8a5efadece0c036c5dc062e1514f1f7a277cfb18f0"
 

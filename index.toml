@@ -389,10 +389,6 @@ file = "mods/creeperoverhaul-2.0.5-forge.jar"
 hash = "de53046007be340f374c9e7ee8e3f0a3de150c39667a54a992932eb861d3c76b"
 
 [[files]]
-file = "mods/cullleaves-forge-3.0.0.jar"
-hash = "86a84f316040e6e2435506413a776128932738dc1b97886b93cc3e7c59151308"
-
-[[files]]
 file = "mods/curios-forge-1.19.2-5.1.3.0.jar"
 hash = "c74982401a3e16d17fe1ecd3dafb9795d7af0f28c65bf6f946505ba07ce49c61"
 

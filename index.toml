@@ -549,10 +549,6 @@ file = "mods/oculus-mc1.19.2-1.2.8a.jar"
 hash = "94cdb74664c718529e3b22347f336e7ea1b465e4b8676354bef4af770e0722a7"
 
 [[files]]
-file = "mods/performant-1.19.2-8.7.jar"
-hash = "7c3b7411d575a0ca6b695b65a33f4b91208377e0ac4284de148b7a538a516098"
-
-[[files]]
 file = "mods/personality-1.19-3.0.1.jar"
 hash = "da9d463f0c5a3a97b065cf30b5acb06fa0be27464f435b9ede38aa40e12fe51a"
 
